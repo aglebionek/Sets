@@ -1,5 +1,5 @@
 # Sets
-<p>A project inspired by a type of set theory tasks I did a lot during my discrete mathematics course at uni, made with C# and Windows Forms.</p>
+<p>A project inspired by a type of set theory tasks I did a lot of during my discrete mathematics course at uni, made with C# and Windows Forms.</p>
 <h2>Example</h2>
 <p>Given sets A, B, C determine, whether the given statements are true or not:</p>
 <p>A∩B=A\C⇒A\(B∩C)=∅</p>
