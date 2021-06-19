@@ -13,5 +13,5 @@ https://user-images.githubusercontent.com/52157190/122651085-dceeaa80-d136-11eb-
 
 </p>
 <h2>In the future</h2>
-<p>Probably this year (2021) I want to rewrite some parts of it.</p>
+<p>Probably this year (2021) I will rewrite some parts of it.</p>
 <p>I would also like to rewrite it in something like Javascript, create a simple website that could run it and possibly host it somewhere. Most likely not this year tho.</p>
